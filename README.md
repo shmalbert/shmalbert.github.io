@@ -2,11 +2,11 @@
 <head>
 <style>
 body {
-    background: lightgreen;
+    background: lightred;
     font-family: Verdana;
 }  
 #content {
-    background: lightyellow;
+    background: lightgray;
     min-width: 200px;
     max-width: 500px;
     padding: 50px;
@@ -40,13 +40,13 @@ h3 {
             <a href="mailto:sgothard@bju.edu">here</a>.
          </p> 
          <p>
-            I enjoy listening to podcasts and having deep conversations.
+            I enjoy listening to podcasts and having shallow conversations.
          </p>
         <h3>EDUCATION</h3>
         <br>Film and Digital Storytelling<br />
         Bob Jones University<br />
         Example image:
-        <img src="https://cs.bju.edu/media/bju-math-division/bju-computer-science/site-assets/images/cs-logo-main.png" />
+        <img src="https://i.ytimg.com/vi/cYNlJYQI3Uw/maxresdefault.jpg" />
     </div>
 </body>
 </html>
